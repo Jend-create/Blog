@@ -1,0 +1,11 @@
+.App a{background-color: lightsteelblue;
+  display:inline;}
+
+  body{ 
+    background-color:Lightblue;
+    font-family: 'Nerko One', cursive, serif;
+    justify-content: space-between;
+    display: -webkit-inline-box;
+    margin: 0 10px;
+
+  }
