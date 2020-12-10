@@ -1,5 +1,4 @@
 import React, {useState} from 'react';
-//import data from './img/Data 4.jpg';
 
 function Login() {
 
@@ -13,7 +12,6 @@ function Login() {
     return (
         <div className = 'form'>
             <div className = 'imgsec'>
-                <img src={('./component/img/Data 4.jpg')} alt='bloglogo'/>
             </div>
              <div className = 'formsec'>
                 <label>Username:</label><br/>
